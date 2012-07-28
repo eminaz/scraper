@@ -1,0 +1,65 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/qdmark/Documents/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/scraper/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+scraper11|0|/Users/qdmark/Documents/workspace/scraper/scraper11.py
+scraperRandom|0|/Users/qdmark/Documents/workspace/scraper/scraperRandom.py
+CleanExcel|0|/Users/qdmark/Documents/workspace/scraper/CleanExcel.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=scraper11
+3=CleanExcel
+1=scraperRandom
+-- END DICTIONARY
+-- START TREE 1
+45
+arr|1|arr!11@
+big|1|bigcount!11@
+cik|1|cik!19@
+col|2|colnum!27@columnNumber!11@
+cou|2|count!11@count!19@
+dat|2|date!19@date!11@
+ele|4|elements3!11@elements2!11@elements3!19@elements2!19@
+fil|2|filenumber!19@filenumber!11@
+i|2|i!19@i!11@
+inn|1|inneri!27@
+k1|2|k1!19@k1!11@
+k10|2|k10!11@k10!19@
+k11|2|k11!19@k11!11@
+k12|2|k12!19@k12!11@
+k2|2|k2!11@k2!19@
+k3|2|k3!11@k3!19@
+k4|2|k4!11@k4!19@
+k5|2|k5!19@k5!11@
+k6|2|k6!19@k6!11@
+k7|2|k7!11@k7!19@
+k8|2|k8!11@k8!19@
+k9|2|k9!11@k9!19@
+lin|4|link!11@link!19@link2!11@link2!19@
+nam|2|name!19@name!11@
+nod|5|nodes!11@nodes!19@node!11@nodenum!11@nodenum!19@
+par|4|paras!11@paragraphs!11@paragraphs!19@paras!19@
+r_s|1|r_sheet!27@
+rb|1|rb!27@
+row|2|rowcount!11@rowcount!19@
+sea|2|searchWeb!11@searchResult!11@
+sel|6|selectionTen!11@selectionText!11@selectionText!19@selectionRaw!11@selectionTen!19@selectionRaw!19@
+sma|1|smallcount!11@
+sta|1|START_ROW!27@
+str|2|str2!19@str2!11@
+sum|2|summary!11@summary!19@
+t0|2|t0!19@t0!11@
+t1|2|t1!11@t1!19@
+t2|2|t2!19@t2!11@
+ten|2|ten!11@ten!19@
+tex|3|texts!19@texts!27@texts!11@
+tre|6|tree2!11@tree2!19@tree!19@tree3!11@tree3!19@tree!11@
+use|2|useten!11@useten!19@
+wb|3|wb!19@wb!27@wb!11@
+web|4|web!11@webcik!19@webcik!11@web!19@
+ws0|3|ws0!27@ws0!19@ws0!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
